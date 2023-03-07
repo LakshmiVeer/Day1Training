@@ -1,4 +1,4 @@
-package org.supriya;
+package org.supriya.Day1Training;
 
 public class Main {
     public static void main(String[] args) {
